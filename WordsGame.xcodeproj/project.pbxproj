@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		0015A5D0296759F900B3E3DA /* WordCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0015A5CF296759F900B3E3DA /* WordCell.swift */; };
+		004B66382980C62000428DA4 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 004B66372980C62000428DA4 /* README.md */; };
 		00956AA52959C0FD00DC9935 /* TitleText.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00956AA42959C0FD00DC9935 /* TitleText.swift */; };
 		00956AA72959C29400DC9935 /* WordsTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00956AA62959C29400DC9935 /* WordsTextField.swift */; };
 		00956AA92959C6D800DC9935 /* GameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00956AA82959C6D800DC9935 /* GameView.swift */; };
@@ -21,6 +22,7 @@
 
 /* Begin PBXFileReference section */
 		0015A5CF296759F900B3E3DA /* WordCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordCell.swift; sourceTree = "<group>"; };
+		004B66372980C62000428DA4 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		00956AA42959C0FD00DC9935 /* TitleText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TitleText.swift; sourceTree = "<group>"; };
 		00956AA62959C29400DC9935 /* WordsTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordsTextField.swift; sourceTree = "<group>"; };
 		00956AA82959C6D800DC9935 /* GameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameView.swift; sourceTree = "<group>"; };
@@ -83,6 +85,7 @@
 		00D35F972959AEB1006366E8 = {
 			isa = PBXGroup;
 			children = (
+				004B66372980C62000428DA4 /* README.md */,
 				00D35FA22959AEB1006366E8 /* WordsGame */,
 				00D35FA12959AEB1006366E8 /* Products */,
 			);
@@ -175,6 +178,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				004B66382980C62000428DA4 /* README.md in Resources */,
 				00D35FAB2959AEB4006366E8 /* Preview Assets.xcassets in Resources */,
 				00D35FA82959AEB4006366E8 /* Assets.xcassets in Resources */,
 			);
